@@ -1,30 +1,35 @@
-# Hi, I'm Iswariya 👋
+# Hi 👋 I'm Ishwarya
 
-☁️ **Cloud Engineer | AWS Certified Cloud Practitioner | DevOps Enthusiast**
+☁️ **Cloud Engineer | AWS Certified Cloud Practitioner | DevOps Engineer**
 
-I am a Cloud Engineer with **1+ year of experience** in building, deploying, and managing cloud-based applications.
-I am passionate about **Cloud Infrastructure, DevOps, and Automation**, and I enjoy working with modern tools to build scalable and reliable systems.
+I am a **Cloud & DevOps Engineer with 1+ year of experience** in designing, deploying, and managing scalable cloud infrastructure. I enjoy building **CI/CD pipelines, automating deployments, and implementing serverless architectures** using AWS and DevOps tools.
 
 ---
 
-## 🚀 Skills & Technologies
+# 👀 Profile Visitors
 
-**Cloud Platforms**
+![Visitors](https://komarev.com/ghpvc/?username=YOUR-USERNAME\&color=blue\&style=for-the-badge)
 
-* AWS (EC2, S3, IAM, VPC, Lambda, CloudWatch)
+---
 
-**DevOps Tools**
+# 🚀 Skills & Technologies
+
+### ☁️ Cloud Platforms
+
+* AWS (**EC2, S3, IAM, VPC, Lambda, CloudWatch**)
+
+### ⚙️ DevOps Tools
 
 * Docker
 * Git & GitHub
-* GitHub Actions (CI/CD)
+* GitHub Actions (**CI/CD**)
 
-**Programming & Scripting**
+### 💻 Programming & Scripting
 
 * Python
 * Bash
 
-**Infrastructure & Monitoring**
+### 🛠️ Infrastructure & Monitoring
 
 * Linux
 * CloudWatch
@@ -32,41 +37,80 @@ I am passionate about **Cloud Infrastructure, DevOps, and Automation**, and I en
 
 ---
 
-## 📂 Projects
+# ☁️ Cloud
 
-### CloudForge CI/CD Pipeline
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-orange?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-red?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/Lambda-yellow?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-purple?style=for-the-badge)
 
-* Built a **CI/CD pipeline using GitHub Actions**
-* Automated **Docker image build and push to AWS ECR**
-* Deployed containerized application to **AWS EC2**
+---
 
-### Serverless Data Processing
+# ⚙️ DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge\&logo=githubactions)
+
+---
+
+# 🛠️ Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![Maven](https://img.shields.io/badge/Maven-orange?style=for-the-badge\&logo=apachemaven)
+![Tomcat](https://img.shields.io/badge/Tomcat-yellow?style=for-the-badge\&logo=apachetomcat)
+
+---
+
+# 📂 Projects
+
+## ⚡ Lambda Data Processing
 
 * Implemented **AWS Lambda triggered by S3**
-* Processed uploaded files and stored data in database
-* Integrated **SNS notifications**
+* Process uploaded files automatically
+* Store processed data into database
+* Send notifications using **SNS**
+
+## 🚀 Dev Environment Deployment (CI/CD)
+
+* Implemented **CI/CD pipeline using GitHub Actions**
+* Automated Docker image build
+* Push images to **AWS ECR**
+* Deploy application automatically to **AWS EC2**
+
+## 🌍 Load Balancer + CloudFront Hosting
+
+* Hosted application using **AWS EC2**
+* Configured **Application Load Balancer**
+* Implemented **CloudFront CDN for global delivery**
+
+## ⚙️ Jenkins Pipeline Setup
+
+* Configured **Jenkins pipeline**
+* Integrated **GitHub repository**
+* Automated **Maven build**
+* Deployed application to **Apache Tomcat server**
 
 ---
 
-## 📜 Certifications
+# 🏆 Certification
 
-* AWS Certified Cloud Practitioner
-
----
-
-## 🌱 Currently Learning
-
-* Advanced AWS Services
-* Kubernetes
-* Infrastructure as Code (Terraform / CloudFormation)
+🏅 AWS Certified Cloud Practitioner
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-* GitHub: https://github.com/YOUR-USERNAME
-* LinkedIn: Add your LinkedIn profile here
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
-⭐ Always interested in learning new cloud technologies and building scalable systems.
+# 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME\&theme=github)
+
+---
+
+⭐ *Passionate about Cloud, DevOps, and building scalable infrastructure.*
